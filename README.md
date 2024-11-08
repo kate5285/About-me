@@ -15,4 +15,4 @@ To briefly explain my repository,
 - [GR_NUR](https://github.com/kate5285/GR_NUR) is the project that I've worked on and wrote about in my B.S. thesis in Earth and Environmental 
 Sciences during my research internship at the Ecology, Biotechnology, Red tide Laboratory
 
-Thank you for stopping by! I hope you have a wonderful day
+Thank you for stopping by!
