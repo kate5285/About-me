@@ -2,6 +2,7 @@
 B.S. in Biological Sciences 
 & Earth and Environmental Sciences 
 at Seoul National University
+
 2020.03~2024.08 (cum laude)
 
 Currently doing a research internship at 
