@@ -9,14 +9,11 @@ the Developmental Cognitive Neuroscience Laboratory,
 Department of Brain and Cognitive Sciences, Seoul National University
 
 To briefly explain my repository,
-- [Free-recall](https://github.com/kate5285/Free-recall), [PA_fMRI](https://github.com/kate5285/PA_fMRI) are projects I'm working on right now of the Developmental
-Cognitive Neuroscience Laboratory
+- [Free-recall](https://github.com/kate5285/Free-recall), [PA_fMRI](https://github.com/kate5285/PA_fMRI) are current projects I’m working on at the Developmental Cognitive Neuroscience Laboratory.
 
-- [Synchrony_analysis](https://github.com/kate5285/Synchrony_analysis), [Remove_2p_mesoscope_artifacts](https://github.com/kate5285/Remove_2p_mesoscope_artifacts), [Object-invariance](https://github.com/kate5285/Object-invariance) are
-are the projects that I've worked on & wrote my B.S. thesis in Biological Sciences on,
-during my research internship at the Neural Dynamics Laboratory
+- [Synchrony_analysis](https://github.com/kate5285/Synchrony_analysis), [Remove_2p_mesoscope_artifacts](https://github.com/kate5285/Remove_2p_mesoscope_artifacts), [Object-invariance](https://github.com/kate5285/Object-invariance) are the projects that I've worked on and wrote about in my B.S. thesis in Biological Sciences during my research internship at the Neural Dynamics Laboratory.
 
-- [GR_NUR](https://github.com/kate5285/GR_NUR) is the project that I've worked on & wrote my B.S. thesis in Earth and Environmental 
-Sciences on during my research internship at the Ecology, Biotechnology, Red tide Laboratory
+- [GR_NUR](https://github.com/kate5285/GR_NUR) is the project that I've worked on and wrote about in my B.S. thesis in Earth and Environmental 
+Sciences during my research internship at the Ecology, Biotechnology, Red tide Laboratory
 
 Thank you for stopping by :D !
