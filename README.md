@@ -16,5 +16,5 @@ Cognitive Neuroscience Laboratory
 are the projects that I've worked on & wrote my B.S. thesis in Biological Sciences on,
 during my research internship at the Neural Dynamics Laboratory
 
-- GR_NUR is the projects that I've worked on & wrote my B.S. thesis in Earth and Environmental 
+- GR_NUR is the project that I've worked on & wrote my B.S. thesis in Earth and Environmental 
 Sciences on during my research internship at the Ecology, Biotechnology, Red tide Laboratory
