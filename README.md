@@ -7,7 +7,7 @@ Currently doing a research internship at
 the Developmental Cognitive Neuroscience Laboratory, 
 Department of Brain and Cognitive Sciences, Seoul National University
 
-My [LinkedIn profile](www.linkedin.com/in/doyeon-kim-2938a5264)
+My [LinkedIn profile](https://linkedin.com/in/doyeon-kim-2938a5264)
 
 To briefly explain my repository,
 - [Free-recall](https://github.com/kate5285/Free-recall), [PA_fMRI](https://github.com/kate5285/PA_fMRI) are current projects I’m working on at the Developmental Cognitive Neuroscience Laboratory.
